@@ -1,4 +1,4 @@
-# Go Arrays · [Generics Playground] ·  [![ci](https://github.com/vitorsalgado/goarrays/actions/workflows/ci.yml/badge.svg)](https://github.com/vitorsalgado/goarrays/actions/workflows/ci.yml)
+# Go Arrays · [Generics Playground] · [![ci](https://github.com/vitorsalgado/goarrays/actions/workflows/ci.yml/badge.svg)](https://github.com/vitorsalgado/goarrays/actions/workflows/ci.yml)
 
 Simple utility to handle arrays in similar way to JavaScript arrays API.  
 Developed to learn Go Generics.
